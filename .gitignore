@@ -1,3 +1,5 @@
+# Source tarballs 
+*.tar.gz
 # Compiled Object files
 *.slo
 *.lo
